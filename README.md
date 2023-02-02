@@ -1,3 +1,36 @@
+# A React fullstack e-commerce app with full stripe integration using Nextjs, Stripe and Sanity
+
+### Live Site Available Here: https://react-ecommerce-stripe-integration.vercel.app
+
+## The app is built using:
+1. HTML, CSS, JS, React
+2. Stripe API
+3. Sanity (BackEnd)
+4. Tailwindcss
+5. NextJS
+
+## Functionalities Implemented:
+1. Users can view products in the catalogue
+2. users can buy products directly through using their credit cards
+3. Users can add and remove items from the Cart
+
+
+## The App demonstrates:
+1. The use of a Sanity for the backend which allows the adding and removing and modifcation of products
+2. Integration of the StripeAPI
+3. Responsiveness with CSS tailwind
+4. Make API requests
+7. Error Handling
+8. Clean SOLID Principles in coding
+9. Data Management and Display
+
+## App Screenshots
+
+### HomePage 
+
+<img width="1371" alt="Screen Shot 2023-02-01 at 22 59 35" src="https://user-images.githubusercontent.com/20219448/216392467-35c820b4-f064-4197-8dac-be268dc7c148.png">
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
